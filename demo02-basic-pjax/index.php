@@ -30,9 +30,9 @@
 	</div>
 
 <?php if (! isset($_GET['pjax'])): ?>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.3.3/backbone.js"></script>
+	<script src="jquery.min.js"></script>
+	<script src="underscore.js"></script>
+	<script src="backbone.js"></script>
 	<script src="script_globalState.js"></script>
 	<script src="script_menu.js"></script>
 	<script src="script_pjax.js"></script>
