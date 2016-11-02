@@ -6,7 +6,7 @@ This repository is the companion for the presentation I gave at the Franklin Dev
 
 All the resources and links for the presentation can be found at:
 
-https://tjdraper.github.io/presentation-franklindev-js-shoring-up-2016
+https://tjdraper.github.io/presentation-franklindev-js-shoring-up-2016/
 
 ### Slides
 
